@@ -2,7 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "main": "app.js",
-  "license": "MIT",
+  "author": "prodev",
   "scripts": {
     "start": "node build/app.js",
     "dev": "nodemon src/app.ts",
